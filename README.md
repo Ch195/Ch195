@@ -1,7 +1,23 @@
-## Hi there 👋
+<h1>Hi, I'm Christian! <br/><a href="https://github.com/joshmadakor1">Application Development Student At CPUT</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+
+  - [My Student Repository](https://github.com/219117675)
+  - [My Linkedin](https://www.linkedin.com/in/christian-hakizimana-37b899184/)
+
+<h2>📺 Linkedlin Learning Certification</h2>
+
+- 
+
+<h2> 🤳 Connect with me:</h2>
+
+- https://www.linkedin.com/in/christian-hakizimana-37b899184/)
+
+
 
 <!--
-**Ch195/Ch195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
